@@ -1,10 +1,7 @@
-import { useState } from 'react'
 import Card from './ui/Card'
 import article from'./data/article.json'
 
 function App() {
-  const [count, setCount] = useState(0)
-
   return (
     <section className='page'>
       <h1 className='hidden'>Responsive and Interactive Article - Made By Keiner Mendoza</h1>
