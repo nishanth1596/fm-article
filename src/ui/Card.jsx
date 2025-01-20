@@ -1,6 +1,4 @@
 import React, { useState } from 'react'
-
-// import iconShare from '/images/icon-share.svg'
 import iconFacebook from '/images/icon-facebook.svg'
 import iconPinterest from '/images/icon-pinterest.svg'
 import iconTwitter from '/images/icon-twitter.svg'
